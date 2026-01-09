@@ -361,8 +361,6 @@ def translate_to_korean(text):
 - [LogicKor Leaderboard](https://huggingface.co/spaces/instructkr/LogicKor-leaderboard) - 다분야 사고력 평가
 - [호랑이 LLM 리더보드](https://wandb.ai/wandb-korea/korean-llm-leaderboard/reports) - W&B 한국어 LLM 평가
 
-### 원본 저장소
-- [open-korean-instructions](https://github.com/HeegyuKim/open-korean-instructions) - 이 README의 주요 참고 자료
 
 ### 🇰🇷 한국 기업 LLM 기술 보고서 (데이터 전략 참고)
 | 기업 | 모델 | 핵심 전략 | 보고서 |
