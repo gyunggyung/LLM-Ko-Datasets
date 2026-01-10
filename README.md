@@ -85,7 +85,6 @@
 | 이름 | 크기 | 설명 | 라이센스 | 링크 |
 |------|------|------|----------|------|
 | **aihub-en-ko-translation-12m** | 12M | 10개 AI Hub 번역 데이터셋 통합. 일상/기술/방송/특허 등. | - | [🤗 nayohan/aihub-en-ko-translation-12m](https://huggingface.co/datasets/nayohan/aihub-en-ko-translation-12m) |
-| **Korean-English Parallel Collection** | 다양 | 한영 병렬 데이터셋 모음. | 다양함 | [🤗 Collection](https://huggingface.co/collections/lemon-mint/korean-english-parallel-datasets-66f2cd68e8a51e4b9fdda855) |
 
 ####  한국어 코드 데이터셋
 | 이름 | 크기 | 설명 | 라이센스 | 링크 |
