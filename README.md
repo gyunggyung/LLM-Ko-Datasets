@@ -182,7 +182,6 @@
 | 이름 | 크기 | 타입 | 설명 | 라이센스 | 링크 |
 |------|------|------|------|----------|------|
 | **Magpie-Pro-MT-300K-ko** | 300K | 멀티턴 | **Magpie 기법**으로 생성된 합성 한국어 instruction 데이터. | - | [🤗 nayohan/Magpie-Pro-MT-300K-v0.1-ko](https://huggingface.co/datasets/nayohan/Magpie-Pro-MT-300K-v0.1-ko) |
-| **qarv-instruct-100k** | 100K | 싱글턴 | **한국 문화/지식** 필요한 instruction-답변 쌍. HAERAE-HUB 제작. | - | [🤗 HAERAE-HUB/qarv-instruct-100k](https://huggingface.co/datasets/HAERAE-HUB/qarv-instruct-100k) |
 | **KoAlpaca-RealQA** | 18K | 싱글턴 | 2023-2024 ChatKoAlpaca **실제 사용자 대화** 기반. | CC BY-SA 4.0 | [🤗 beomi/KoAlpaca-RealQA](https://huggingface.co/datasets/beomi/KoAlpaca-RealQA) |
 | **Won-Instruct** | 86K | 싱글턴 | **금융 도메인** 특화 한국어 instruction 데이터. KRX 제작. | 확인 필요 | [🤗 KRX-Data/Won-Instruct](https://huggingface.co/datasets/KRX-Data/Won-Instruct) |
 | **ko-limo** | 1K | 싱글턴 | LIMO 논문 데이터 한국어 번역. **추론 능력** 강화용. | - | [🤗 junnei/ko-limo](https://huggingface.co/datasets/junnei/ko-limo) |
