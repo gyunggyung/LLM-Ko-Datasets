@@ -71,7 +71,7 @@
 | **Korean Wikipedia Edu** | 필터링 | 교육적 내용 필터링된 한국어 위키피디아. | CC BY-SA | [🤗 devngho/korean-wikipedia-edu](https://huggingface.co/datasets/devngho/korean-wikipedia-edu) |
 | **kowikitext** | ~100MB | 한국어 위키피디아 텍스트 정제 버전. | CC BY-SA | [🤗 heegyu/kowikitext](https://huggingface.co/datasets/heegyu/kowikitext) |
 | **Namuwiki Dataset** | 대용량 | 나무위키 덤프 데이터 (Alpaca 형식이지만 지식 추출용으로 Pre-training 활용 가능). | 비상업적 | [🤗 psymon/namuwiki_alpaca_dataset](https://huggingface.co/datasets/psymon/namuwiki_alpaca_dataset) |
-| **Korean Pretraining Collection** | 다양 | 위키/나무위키/교과서 등 한국어 Pre-training 데이터 모음. 2024년 업데이트. | 다양함 | [🤗 Collection](https://huggingface.co/collections/devngho/korean-pretraining-dataset-6737276dd3cb7d3f5fbd2e94) |
+
 
 #### 📝 한국어 합성/교과서 데이터셋 (허깅페이스에서 바로 사용 가능) ⭐
 | 이름 | 크기 | 설명 | 라이센스 | 링크 |
